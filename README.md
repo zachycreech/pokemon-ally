@@ -17,6 +17,8 @@ I decided to use the pokeapi because I thought it would be fun to make a bulbape
 - On the details page I have setup a larger front and back sprite image, along with the types of that pokemon, descriptions from the various games, and the legacy sounds of the pokemon from the game.
 - Additionally I have added the ability to add and remove pokemon from your team, which can be seen at in the drawer on the Home screen.
 - The drawer shows your Team of pokemon with a limit of 6, just like in the games, and onPressing the pokemon it will vibrate the phone and play the pokemon's sound while navigating you to their details page. LongPressing will remove that pokemon from the spot on your team, allowing you to add an additional pokemon.
+- Async Storage
+- Haptic Feedback onPress for Team
 
 ### UI Design
 - React-Navigation, stack and drawers, I chose to go with these because of the simlicity to implement and the natural flow that they provide
