@@ -44,3 +44,10 @@ Overall 10/10 solution at least for me, because I got to learn more about ffmpeg
 #### setup mac mini for development
 So I originally bought this mac mini that I am presently developping on to be used to build out React-Native apps but never went through the process of getting my development workflow all setup. And thankfully I do have all of my dotfiles saved on my github with stow and all the good stuff. But it always surprises me how much extra you end up needing to add like ssh keys, LSPs for neovim, nvm, tiling managers, brew, and etc. So some time was spent just setting that up. But I am happy with where this mac mini is at now. 
 
+### Improvements
+- Add tests
+- Add additional styling
+- Add icons to pokemon types
+- Add more data points to details page
+- Add snackbar to show when pokemon is added to team/ romevode from team
+
