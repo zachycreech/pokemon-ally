@@ -1,4 +1,4 @@
-import React, { useEffect, useLayoutEffect } from "react";
+import React, { useEffect } from "react";
 import { RouteProp, useNavigation } from "@react-navigation/native";
 import { NavigationType } from "../../App";
 import { Spinner, Error } from "../../components";

@@ -49,5 +49,5 @@ So I originally bought this mac mini that I am presently developping on to be us
 - Add additional styling
 - Add icons to pokemon types
 - Add more data points to details page
-- Add snackbar to show when pokemon is added to team/ romevode from team
+- Add snackbar to show when pokemon is added to team/ remove from team
 

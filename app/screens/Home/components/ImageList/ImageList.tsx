@@ -1,5 +1,5 @@
 import React from "react";
-import { FlatList, Image, StyleSheet, View, Vibration } from "react-native";
+import { FlatList, Image, StyleSheet, View } from "react-native";
 import { TouchableOpacity } from "react-native-gesture-handler";
 import { useNavigation } from "@react-navigation/native";
 import { NavigationType } from "../../../../App";
